@@ -1,0 +1,6 @@
+﻿venv/
+__pycache__/
+*.pyc
+data/*.db
+_unused/
+_unused_pages/
