@@ -33,3 +33,8 @@ keeps a timestamped audit log.
 Python, Streamlit, Pandas, SQLite, Plotly
 
 ## How to Run
+
+## Image Credits
+
+Illustrations from [pngtree] (pngtree.com), and [Rawpixel] (rawpixel.com) free license.
+Placeholder slots remain wired for original hand-drawn artwork.
