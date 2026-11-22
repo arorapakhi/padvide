@@ -43,3 +43,8 @@ Placeholder slots remain wired for original hand-drawn artwork.
 
 Illustrations from [pngtree] (pngtree.com), and [Rawpixel] (rawpixel.com) free license.
 Placeholder slots remain wired for original hand-drawn artwork.
+
+## Image Credits
+
+Illustrations from [pngtree] (pngtree.com), and [Rawpixel] (rawpixel.com) free license.
+Placeholder slots remain wired for original hand-drawn artwork.

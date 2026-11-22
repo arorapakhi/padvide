@@ -73,5 +73,5 @@ with t3:
         n = usage_service.backfill_history(days=14)
         st.success(f"Created {n} readings.")
         st.rerun()
-    theme.illustration_slot("setup_sketch.jpg",
+    theme.illustration_slot("setup_sketch.png",
                             "Hand-drawn sensor installation sketch", height=160)

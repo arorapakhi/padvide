@@ -189,13 +189,11 @@ st.write("---")
 i1, i2 = st.columns(2)
 with i1:
     theme.illustration_slot(
-        "school_map.jpg",
-        "Hand-drawn map of the three buildings with dispenser pins",
+        "school_map.png",
         height=200,
     )
 with i2:
     theme.illustration_slot(
-        "dispenser_sketch.jpg",
-        "Sketch of a dispenser with its sensor and QR code",
+        "dispenser_sketch.png",
         height=200,
     )
