@@ -114,7 +114,7 @@ def illustration_slot(filename, caption, height=200):
     """
     path = os.path.join(config.ILLUSTRATION_DIR, filename)
     if os.path.exists(path):
-        st.image(path, caption=caption, use_container_width=True)
+        st.image(path, caption=caption)
     else:
         st.markdown(
             f"""
