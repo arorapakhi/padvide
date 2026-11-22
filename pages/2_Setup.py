@@ -74,4 +74,4 @@ with t3:
         st.success(f"Created {n} readings.")
         st.rerun()
     theme.illustration_slot("setup_sketch.png",
-                            "Hand-drawn sensor installation sketch", height=160)
+                             "Illustration: Rawpixel (rawpixel.com)", height=160)
