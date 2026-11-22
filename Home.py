@@ -18,6 +18,6 @@ with c1:
              "so no student finds an empty box. Open the Dashboard in the sidebar.")
     st.info("Sensor data is simulated in software. No student data is collected.")
 with c2:
-    theme.illustration_slot("welcome_hero.png", height=240)
+    theme.illustration_slot("welcome_hero.png", "Illustration: Rawpixel (rawpixel.com)", height=240)
 st.write("---")
 st.caption("PadVide prototype.")

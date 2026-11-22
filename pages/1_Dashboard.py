@@ -189,11 +189,9 @@ st.write("---")
 i1, i2 = st.columns(2)
 with i1:
     theme.illustration_slot(
-        "school_map.png",
-        height=200,
-    )
+        "school_map.png", "Illustration: Rawpixel (rawpixel.com)", height=200)
 with i2:
     theme.illustration_slot(
         "dispenser_sketch.png",
-        height=200,
-    )
+         "Illustration: Rawpixel (rawpixel.com)",
+        height=200)
